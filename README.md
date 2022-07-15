@@ -1,33 +1,33 @@
-﻿# Telecomando per Ets2
+﻿# Remote control for Ets2
 
-## Descrizione del progetto
-Il progetto consiste in un telecomando controllato da un microcontrollore che permette l'uso di comandi extra (come regolazione sospensioni, alza e abbassa assi posteriori e anteriori) del gioco Euro truck simulator 2 in modo da avere migliore accesso quando si usano periferiche esterne come il volante.
-Il design del progetto è ispirato dal telecomando della Scania utilizzato per la regolazione delle sospensioni pneumatiche.
+## Project Description
+This project consists of a remote that let's you use a few extra buttons to control suspensions, axles and much more in the game Euro truck simulator 2 in a way to give you better access to these controls when you're using different peripherals like when using a wheel.
+The design of this project was inspired by the remote made by Scania to control the air suspensions in their trucks shown in the image below.
 
 ![image of the scania pneumatic remote](https://www.trucksnl.com/pictures/ad-7001640-9c061b9b960914da/camion_della_gru_scania_r144_6x2_crane_fassi_f175a_dot_24_manual_full_air_crane_with_remote_1997_7001640-18.jpg)
 
-## Goal del progetto
+## Projects Goals
 
-> Come verranno completati i vari goal verranno aggiornati sulla seguente lista
+> As soon as every goal gets accomplished I will update the status here
 
-I goal principali del progetto sono i seguenti:
+The project's main goal is:
 
- - [ ]  6 Pulsanti comandati
- - [ ] 3 led gialli controllati dal chip per feedback
- - [ ] Cavo per interfaccia (Usb Type C preferibilmente)
- - [ ] Avere una costruzione meccanica solida
- ## Stato attuale del progetto
+ - [ ]  6 Buttons in a matrix
+ - [ ] 3 yellow LEDs for indications
+ - [ ] Connection for interface to the computer (Usb Type-C preferably)
+ - [ ] Have a solid mechanical construction
+ ## Current project's status
  
- - [ ] Fase concettuale
- - [ ] Scelta delle parti
- - [ ] Costruzione delle parti (3D, schematici e footprint)
- - [ ] Routing del PCB
- - [ ] Fit-check con modelli 3d
- - [ ] Ordine delle parti
- - [ ] Stampa 3D della base
- - [ ] Montaggio e convalida
+ - [x] Conceptual fase
+ - [ ] Choosing the project's parts
+ - [ ] Parts construction (3D, schematics footprint)
+ - [ ] PCB routing
+ - [ ] Fit-check of the 3d models
+ - [ ] Ordering all the parts
+ - [ ] 3D printing the parts needed
+ - [ ] Assembly and validation
 
-## Licenza del progetto
+## Project's Licence
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
