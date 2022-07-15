@@ -12,8 +12,8 @@ The design of this project was inspired by the remote made by Scania to control 
 
 The project's main goal is:
 
- - [ ]  6 Buttons in a matrix
- - [ ] 3 yellow LEDs for indications
+ - [x]  6 Buttons in a 3x2 matrix
+ - [x] 3 yellow LEDs for indications
  - [ ] Connection for interface to the computer (Usb Type-C preferably)
  - [ ] Have a solid mechanical construction
  ## Current project's status
